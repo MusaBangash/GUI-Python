@@ -18,6 +18,7 @@ def clicked():
     txt.destroy()
 
 btn = Button(root, text="Click me",fg='red',command=clicked)
+btn2=Button(root,text="Check Out",fg="green",command="Push Me")
 
 btn.grid(column=2,row=0)
 
