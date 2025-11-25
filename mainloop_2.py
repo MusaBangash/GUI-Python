@@ -25,3 +25,6 @@ btn2.grid(column=2,row=2)
 
 
 root.mainloop()
+
+
+#2025 footer note is added
